@@ -1,4 +1,4 @@
-let id: number = 46;
+let id: number = 46
 let student: string = "Satya Sri";
 
 function greet(name: string): string {

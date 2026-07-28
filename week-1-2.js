@@ -5,3 +5,4 @@ let passed = true;
 console.log(age1);
 console.log(name1);
 console.log(passed);
+
